@@ -3,7 +3,7 @@
 实现函数
 void mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
 
-参数详细定义查看MultiDASEnv.cpp
+参数详细定义请查看MultiDASEnv.cpp
 
 # 使用教程
 环境配置：CUDA 8.0及以上
