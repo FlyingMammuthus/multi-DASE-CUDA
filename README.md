@@ -14,3 +14,4 @@ void mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
 
 # 实例展示
 该实例采用matlab作为采集数据的平台，数据传输到VS进行重建，随后返回重建的图像，显示到matlab端。
+![image](https://github.com/FlyingMammuthus/multi-DASE-CUDA/blob/master/example/example.gif)
